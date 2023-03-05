@@ -1,4 +1,3 @@
-extern crate leet_code_rust_lang;
 use leet_code_rust_lang::problems::_0001_two_sum::Solution;
 
 #[test]
